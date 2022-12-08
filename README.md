@@ -6,4 +6,5 @@ Visual Studio 2019
 ISO C++ 17 Standard
 
 ## Folder Structure
-
+### Data
+Contains geometry, material and texture files for Mini Cooper
